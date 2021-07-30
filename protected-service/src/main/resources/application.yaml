@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: protected-service
+server:
+  port: 8083
